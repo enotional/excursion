@@ -1,0 +1,33 @@
+*{
+  font-family: Verdana;
+}
+
+body{
+  color:white;
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  text-size: 50px;
+  font-weight: normal;
+}
+
+h2{
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+p{
+  color: gray;
+  text-size: 21px;
+}
+
+.coming{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.footer{
+  text-align:right;
+}
