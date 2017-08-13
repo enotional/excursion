@@ -9,8 +9,8 @@ body{
 }
 
 h1{
+  font-weight: bold;
   text-size: 50px;
-  font-weight: normal;
 }
 
 h2{
